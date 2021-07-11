@@ -1,0 +1,61 @@
+{
+    "notedetails": [
+      {
+        "id": 1,
+        "name": "Lilly",
+        "notesList": [
+          {
+            "folderName": "Lilly",
+            "header": "Header",
+            "content": "Header\n Hi i am lilly",
+            "active": false,
+            "createdOn": "2021-07-11T14:55:35.675Z",
+            "modifiedOn": "2021-07-11T15:12:47.682Z"
+          },
+          {
+            "folderName": "Lilly",
+            "header": "2nd Header",
+            "content": "2nd Header\nxcdsvfd dfvgdf fvs\naxdvcsfb",
+            "createdOn": "2021-07-11T14:57:36.456Z",
+            "modifiedOn": "2021-07-11T15:13:00.403Z",
+            "active": true
+          }
+        ],
+        "show": false,
+        "active": false
+      },
+      {
+        "id": 2,
+        "name": "Test",
+        "notesList": [
+          {
+            "folderName": "Test",
+            "header": "cdv zxczdx",
+            "content": "cdv zxczdx",
+            "active": false,
+            "createdOn": "2021-07-11T15:03:50.943Z",
+            "modifiedOn": "2021-07-11T15:03:50.943Z"
+          }
+        ],
+        "show": false,
+        "active": false
+      },
+      {
+        "id": 3,
+        "name": "mm",
+        "notesList": [
+          {
+            "folderName": "mm",
+            "header": "jbhj hvhj",
+            "content": "jbhj hvhj\nkjhjhgb",
+            "active": false,
+            "createdOn": "2021-07-11T15:14:45.305Z",
+            "modifiedOn": "2021-07-11T15:14:45.305Z"
+          }
+        ],
+        "show": false,
+        "active": false
+      }
+    ],
+    "recentlydeleted": []
+  }
